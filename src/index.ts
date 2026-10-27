@@ -11,10 +11,4 @@ export {
 } from './document';
 
 // Grouped conventions: every type in ./types.
-export type {
-  DocumentOptions,
-  ErrorStatusCode,
-  HttpMethod,
-  Operation,
-  OperationSpec,
-} from './types';
+export type { DocumentOptions, ErrorStatusCode, HttpMethod, Operation, OperationSpec } from './types';
